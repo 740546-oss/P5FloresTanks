@@ -12,6 +12,22 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 875225047297872771, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
+      propertyPath: m_MaxDamage
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 875225047297872771, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
+      propertyPath: m_ShotCooldown
+      value: 1.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 875225047297872771, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
+      propertyPath: m_ExplosionForce
+      value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 875225047297872771, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
+      propertyPath: m_ExplosionRadius
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 1182956310425942266, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -21,12 +37,20 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1245582110166960759, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
+      propertyPath: m_Speed
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1245582110166960759, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
+      propertyPath: m_TurnSpeed
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 1245582110166960759, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
       propertyPath: m_PlayerNumber
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1245582110166960759, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
       propertyPath: m_IsComputerControlled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2117198193716177347, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
       propertyPath: m_AnchorMax.x
@@ -111,6 +135,10 @@ PrefabInstance:
     - target: {fileID: 4162208316515170084, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
       propertyPath: m_Center.z
       value: -0.09590733
+      objectReference: {fileID: 0}
+    - target: {fileID: 4174356508100066502, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
+      propertyPath: m_StartingHealth
+      value: 300
       objectReference: {fileID: 0}
     - target: {fileID: 6520834290953563856, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
       propertyPath: m_AnchorMax.x

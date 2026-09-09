@@ -20,6 +20,14 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1245582110166960759, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
+      propertyPath: m_Speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1245582110166960759, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
+      propertyPath: m_IsComputerControlled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2117198193716177347, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0

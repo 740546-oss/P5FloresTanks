@@ -14,7 +14,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 875225047297872771, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
       propertyPath: m_MaxDamage
-      value: 100
+      value: 80
       objectReference: {fileID: 0}
     - target: {fileID: 875225047297872771, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
       propertyPath: m_ShotCooldown
@@ -38,7 +38,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1245582110166960759, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
       propertyPath: m_Speed
-      value: 6
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 1245582110166960759, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
       propertyPath: m_TurnSpeed
@@ -138,7 +138,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4174356508100066502, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
       propertyPath: m_StartingHealth
-      value: 300
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 6520834290953563856, guid: 5de206a1c5dccd24fa055c33a5c04702, type: 3}
       propertyPath: m_AnchorMax.x
